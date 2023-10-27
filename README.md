@@ -1,13 +1,16 @@
 1)Анисимов Иван Михайлович Фт-220008;
-
+____
 2)Шифрование и расшифровка текста шифром Цезаря. Пользователь вводит строку и шаг сдвига;
-
+____
 3)Язык програмирования Python, среда разработки:PyCharm;
-
+____
 4)Чтобы пользоваться прогрмамой нужно ввести любую строку и шаг сдвига;
+____
+![name](https://github.com/Vancheres/Laba-5/assets/146539395/3180b0d5-489a-493f-a000-03cc08b19df5)
 
-![image](https://github.com/Vancheres/Laba-5/assets/146539395/097c7f5a-19af-42bb-8010-c6ea83efaccc);
+![1](https://github.com/Vancheres/Laba-5/assets/146539395/7bb77319-a32d-4d43-a9f1-b91246dc5764)
 
-![image](https://github.com/Vancheres/Laba-5/assets/146539395/51c21517-e5dc-4510-b0db-5cd9b4a30003);
+![2](https://github.com/Vancheres/Laba-5/assets/146539395/f6a371e7-ba73-45ab-bdac-26dc5e3ebfcb)
 
-![image](https://github.com/Vancheres/Laba-5/assets/146539395/88463c05-0568-4f17-a638-1b4124afe8c8)
+![3](https://github.com/Vancheres/Laba-5/assets/146539395/270ecbcd-8409-44c5-9862-e1dd6658069c)
+
